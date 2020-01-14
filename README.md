@@ -1,7 +1,10 @@
 <h2>Scratch</h2
 
 Scratch урок 11 <br>
-Списки.
+Использование блока перо.<br>
+https://yadi.sk/i/ouE4-fPNc_toLw <br>
+
+Стр 53-60
 
 Scratch 3  ссылка на загрузку: <br>
 https://scratch.mit.edu/download <br>
